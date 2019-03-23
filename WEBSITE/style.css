@@ -1,4 +1,55 @@
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 #tytul
 {
+    background-color:blue;
+    height: 70px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 55px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+#pasek_nawigacji
+{
     background-color: red;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding: 10px;
+}
+.opcja
+{
+    float:left;
+    margin: 10px;
+    font-size: 35px;
+    width: 11%;
+    height: 80px;
+    border: dotted 1px;
+    text-align: center;
+    
+}
+#opis
+{
+    background-color: yellow;
+    width: 25%;
+    height: 600px;
+    float: left;
+}
+#zawartosc
+{
+    background-color: black;
+    height: 600px;
+
+}
+#stopka
+{
+    height: 60px;
+    background-color: aqua;
 }
